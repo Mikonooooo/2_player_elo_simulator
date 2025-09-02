@@ -1,0 +1,8 @@
+Session started at 2025-08-18 15:40:26
+Initial Elo - P1: 1000, P2: 1000, K factor: 100
+Game 1: P1 wins, P1: 1050, P2: 950
+Game 2: P1 wins, P1: 1086, P2: 914
+Game 3: P1 wins, P1: 1113, P2: 887
+Game 4: P1 wins, P1: 1134, P2: 866
+Game 5: P1 wins, P1: 1152, P2: 848
+Game 6: P1 wins, P1: 1167, P2: 833
